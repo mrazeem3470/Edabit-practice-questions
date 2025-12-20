@@ -5,3 +5,6 @@ def less_than_100(a,b):
         return False
 result = less_than_100(50,56)
 print(result)
+
+
+
